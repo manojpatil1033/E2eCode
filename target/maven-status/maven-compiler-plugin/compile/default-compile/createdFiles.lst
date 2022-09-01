@@ -1,0 +1,5 @@
+PageObjects\NewsLetterBox.class
+Resources\Base.class
+Resources\extentReporterNG.class
+PageObjects\LoginPage.class
+PageObjects\LandingPage.class
